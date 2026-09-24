@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    min-height: 100vh;
+    background-image: url(https://marketplace.canva.com/rLJoA/MAHDYvrLJoA/1/tl/canva-MAHDYvrLJoA.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+h2 {
+    display: flex;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
